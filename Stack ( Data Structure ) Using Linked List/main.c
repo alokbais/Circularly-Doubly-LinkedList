@@ -5,6 +5,9 @@
 #include <stdbool.h>
 #include <limits.h>
 
+// This program is to demonstrate circular double linked list example.
+// created by Alok Singh 
+
 struct Node
 {
     int data;
